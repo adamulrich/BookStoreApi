@@ -6,9 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStoreApi", "BookStoreApi.csproj", "{A3DBFC3F-0451-4A97-A09C-7FA47B6B88DD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DEAA60D1-5A5D-47BA-BFA9-51DBAAFDB41E}"
-	ProjectSection(SolutionItems) = preProject
-		HasScopeRequirement.cs = HasScopeRequirement.cs
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
